@@ -3,7 +3,7 @@ Please if you like our coding, donate us if you can, even small amount help us :
 
 ```
 
-Ko-Fi             : https://ko-fi.com/malagam
+Ko-Fi             : https://ko-fi.com/zartek
 
 BTC               : 1QKqvfAdqRZaaKwMzM51E7o9Dc7SQL62to
 ETH               : 0x9184f7b72F34e345fE3709D148824034ce65aA99
