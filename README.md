@@ -1,5 +1,6 @@
 # DONATE
 Please if you like our coding, donate us if you can, even small amount help us :)
+S'il vous plaît, si vous aimez notre codage, faites-nous un don si vous le pouvez, même une petite quantité nous aide :)
 
 ```
 
