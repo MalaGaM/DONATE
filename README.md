@@ -5,7 +5,7 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ```
-Ko-Fi             : https://ko-fi.com/zartek
+Ko-Fi (PayPal)    : https://ko-fi.com/zartek
 
 BTC               : 1QKqvfAdqRZaaKwMzM51E7o9Dc7SQL62to
 ETH               : 0x9184f7b72F34e345fE3709D148824034ce65aA99
