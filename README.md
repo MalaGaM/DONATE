@@ -1,10 +1,16 @@
+Bienvenue sur cette page de donations, destinée à soutenir les projets open source que je développe. Si vous utilisez l'un de mes codes et que vous souhaitez contribuer à son amélioration et à son développement futur, nous vous invitons à faire une donation.
+
+En faisant un don, vous contribuez à la croissance de l'open source et à l'amélioration de la communauté. Chaque don compte et permet de soutenir l'innovation et l'excellence dans l'open source.
+
 - Ko-Fi (PayPal) : https://ko-fi.com/zartek
 - Bitcoin : 1QKqvfAdqRZaaKwMzM51E7o9Dc7SQL62to
 - Ethereum : 0x9184f7b72F34e345fE3709D148824034ce65aA99
 - LTC : LMqfG4rYGPgLhf5UTZcx5JnBRY4KjDgL65
 - DOGE : DB2a96Pbdur6HoYWGog2SMb1Yh3G5oxtnx
 - ETC : 0x814c3555798272d1B33813d39a2F6180b6A28Bff
-- 
+
+
+
 "Un petit don peut faire une grande différence pour l'open source. Tous les dons, quels que soient leur taille, sont très appréciés et contribuent au développement de projets open source de qualité."
 
 Bienvenue sur cette page de donations, destinée à soutenir les projets open source que je développe. Si vous utilisez l'un de mes codes et que vous souhaitez contribuer à son amélioration et à son développement futur, nous vous invitons à faire une donation.
@@ -28,8 +34,6 @@ Montrer votre reconnaissance envers les développeurs : Si vous utilisez un proj
 Contribuer à l'amélioration de l'écosystème open source : En faisant des donations, vous pouvez contribuer à améliorer l'écosystème open source dans son ensemble et à encourager la création de projets de qualité. Cela peut profiter à tous ceux qui utilisent ces projets et qui en bénéficient.
 
 Il y a plusieurs façons de nous soutenir financièrement :
-
-
 - Ko-Fi (PayPal) : https://ko-fi.com/zartek
 - Bitcoin : 1QKqvfAdqRZaaKwMzM51E7o9Dc7SQL62to
 - Ethereum : 0x9184f7b72F34e345fE3709D148824034ce65aA99
